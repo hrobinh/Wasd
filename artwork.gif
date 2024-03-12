@@ -1,0 +1,1 @@
+side = random.uniform(1, 10)
